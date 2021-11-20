@@ -9,5 +9,6 @@ public class TestPush {
         System.out.println("other is update");
 
         System.out.println("local commit: my is update2");
+        System.out.println("remote commit: other is update2");
     }
 }
