@@ -7,5 +7,6 @@ public class TestPush {
         int c = 3;
         System.out.println("my is update");
         System.out.println("other is update");
+        System.out.println("remote commit: other is update2");
     }
 }
