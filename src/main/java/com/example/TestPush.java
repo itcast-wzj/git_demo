@@ -5,6 +5,7 @@ public class TestPush {
         int a = 1;
         int b = 2;
         int c = 3;
+        System.out.println("my is update");
         System.out.println("other is update");
     }
 }
