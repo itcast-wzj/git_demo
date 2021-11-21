@@ -6,6 +6,17 @@ public class TestPush {
         System.out.println("remote branch: update2");
 
         System.out.println("local: test reset");
-        System.out.println("local: test reset2");
+    }
+
+    public void a(){
+
+    }
+
+    public void b(){
+
+    }
+
+    public void c(){
+
     }
 }
