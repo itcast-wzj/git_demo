@@ -7,16 +7,4 @@ public class TestPush {
 
         System.out.println("local: test reset");
     }
-
-    public void a(){
-
-    }
-
-    public void b(){
-
-    }
-
-    public void c(){
-
-    }
 }
