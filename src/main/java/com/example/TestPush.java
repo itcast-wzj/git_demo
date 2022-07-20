@@ -9,5 +9,6 @@ public class TestPush {
         System.out.println("local: test reset1");
     
         System.out.println("其他人: 加了代码1");
+        System.out.println("其他人: 加了代码2");
     }
 }
