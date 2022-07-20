@@ -2,12 +2,10 @@ package com.example;
 
 public class TestPush {
   public static void main(String[] args) {
-        int a = 1;
-        int b = 2;
-        int c = 3;
-        System.out.println("我是master分支");
-    }
+        System.out.println("remote branch: update1");
+        System.out.println("remote branch: update2");
 
-    private static void method() {
+        System.out.println("local: test reset");
+        System.out.println("local: test reset1");
     }
 }

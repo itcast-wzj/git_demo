@@ -1,7 +1,7 @@
 package com.example;
 
-public class Feature1 {
+public class TestStage {
     public static void main(String[] args) {
-        System.out.println("Feature1...");
+        System.out.println("lcoal commit");
     }
 }
