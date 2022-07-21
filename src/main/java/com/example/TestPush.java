@@ -9,6 +9,6 @@ public class TestPush {
         System.out.println("local: test reset1");
 
         System.out.println("bugfix: fast forward");
-        System.out.println("master: 重构");
+        System.out.println("master: 重构, master提交");
     }
 }
