@@ -13,5 +13,7 @@ public class TestPush {
         System.out.println("bugfix: 修改");
 
         System.out.println("bugfix: 1");
+
+        System.out.println("bugfix: C2");
     }
 }
