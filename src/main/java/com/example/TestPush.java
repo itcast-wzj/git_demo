@@ -7,5 +7,7 @@ public class TestPush {
 
         System.out.println("local: test reset");
         System.out.println("local: test reset1");
+
+        System.out.println("bugfix: fast forward");
     }
 }
