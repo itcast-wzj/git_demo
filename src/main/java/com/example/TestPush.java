@@ -10,5 +10,6 @@ public class TestPush {
 
         System.out.println("bugfix: fast forward");
         System.out.println("master: 重构, fixbug提交");
+        System.out.println("bugfix: 修改");
     }
 }
