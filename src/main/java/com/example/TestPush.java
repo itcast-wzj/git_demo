@@ -7,8 +7,13 @@ public class TestPush {
 
         System.out.println("local: test reset");
         System.out.println("local: test reset1");
-    
-        System.out.println("其他人: 加了代码1");
-        System.out.println("其他人: 加了代码2");
+
+        System.out.println("bugfix: fast forward");
+        System.out.println("master: 重构, fixbug提交");
+        System.out.println("bugfix: 修改");
+
+        System.out.println("bugfix: 1");
+
+        System.out.println("bugfix: C2");
     }
 }
